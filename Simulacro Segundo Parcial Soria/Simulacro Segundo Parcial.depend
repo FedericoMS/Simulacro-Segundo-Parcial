@@ -1,0 +1,333 @@
+# depslib dependency file v1.0
+1593694347 source:c:\users\fede\desktop\simulacro segundo parcial\controllersimulacro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Flights.h"
+	"Pilots.h"
+	"controllerSimulacro.h"
+
+1593619921 c:\users\fede\desktop\simulacro segundo parcial\linkedlist.h
+
+1593694024 source:c:\users\fede\desktop\simulacro segundo parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593694965 source:c:\users\fede\desktop\simulacro segundo parcial\pilots.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilots.h"
+
+1593691673 source:c:\users\fede\desktop\simulacro segundo parcial\flights.c
+	"Flights.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593691039 c:\users\fede\desktop\simulacro segundo parcial\flights.h
+
+1593694416 source:c:\users\fede\desktop\simulacro segundo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"controllerSimulacro.h"
+	"Flights.h"
+	"menu.h"
+	"funcionesGet.h"
+	"Pilots.h"
+
+1593529934 c:\users\fede\desktop\simulacro segundo parcial\parser.h
+	"LinkedList.h"
+
+1593691925 c:\users\fede\desktop\simulacro segundo parcial\controllersimulacro.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593698496 source:c:\users\fede\desktop\simulacro segundo parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Flights.h"
+	"Pilots.h"
+
+1593698496 source:c:\users\fede\desktop\simulacro segundo parcial\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"funcionesGet.h"
+
+1593520956 c:\users\fede\desktop\simulacro segundo parcial\menu.h
+
+1593521484 source:c:\users\fede\desktop\simulacro segundo parcial\funcionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesGet.h"
+
+1593521519 c:\users\fede\desktop\simulacro segundo parcial\funcionesget.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1593691167 c:\users\fede\desktop\simulacro segundo parcial\pilots.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1593645747 source:c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\controllersimulacro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Flights.h"
+	"Pilots.h"
+	"controllerSimulacro.h"
+
+1593619921 c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\linkedlist.h
+
+1593639078 c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\flights.h
+
+1593628348 c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\pilots.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1593645727 c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\controllersimulacro.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593521484 source:c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\funcionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesGet.h"
+
+1593521519 c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\funcionesget.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1593640110 source:c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593645727 source:c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"controllerSimulacro.h"
+	"Flights.h"
+	"menu.h"
+	"funcionesGet.h"
+	"Pilots.h"
+
+1593529934 c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\parser.h
+	"LinkedList.h"
+
+1593520956 c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\menu.h
+
+1593637423 source:c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Flights.h"
+	"Pilots.h"
+
+1593628988 source:c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\pilots.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilots.h"
+
+1593639301 source:c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\flights.c
+	"Flights.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593639713 source:c:\users\fede\desktop\study & work\original 01 07 simulacro segundo parcial\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"funcionesGet.h"
+
+1593645864 source:c:\users\fede\desktop\a modificar simulacro segundo parcial\flights.c
+	"Flights.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593654217 c:\users\fede\desktop\a modificar simulacro segundo parcial\flights.h
+
+1593521484 source:c:\users\fede\desktop\a modificar simulacro segundo parcial\funcionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesGet.h"
+
+1593521519 c:\users\fede\desktop\a modificar simulacro segundo parcial\funcionesget.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1593640110 source:c:\users\fede\desktop\a modificar simulacro segundo parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593619921 c:\users\fede\desktop\a modificar simulacro segundo parcial\linkedlist.h
+
+1593654168 source:c:\users\fede\desktop\a modificar simulacro segundo parcial\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"funcionesGet.h"
+
+1593520956 c:\users\fede\desktop\a modificar simulacro segundo parcial\menu.h
+
+1593637423 source:c:\users\fede\desktop\a modificar simulacro segundo parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Flights.h"
+	"Pilots.h"
+
+1593529934 c:\users\fede\desktop\a modificar simulacro segundo parcial\parser.h
+	"LinkedList.h"
+
+1593628348 c:\users\fede\desktop\a modificar simulacro segundo parcial\pilots.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1593628988 source:c:\users\fede\desktop\a modificar simulacro segundo parcial\pilots.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilots.h"
+
+1593654080 source:c:\users\fede\desktop\a modificar simulacro segundo parcial\controllersimulacro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Flights.h"
+	"Pilots.h"
+	"controllerSimulacro.h"
+
+1593654080 c:\users\fede\desktop\a modificar simulacro segundo parcial\controllersimulacro.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593654090 source:c:\users\fede\desktop\a modificar simulacro segundo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"controllerSimulacro.h"
+	"Flights.h"
+	"menu.h"
+	"funcionesGet.h"
+	"Pilots.h"
+
+1593693741 source:c:\users\fede\desktop\modificado simulacro segundo parcial\controllersimulacro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Flights.h"
+	"Pilots.h"
+	"controllerSimulacro.h"
+
+1593619921 c:\users\fede\desktop\modificado simulacro segundo parcial\linkedlist.h
+
+1593691039 c:\users\fede\desktop\modificado simulacro segundo parcial\flights.h
+
+1593691167 c:\users\fede\desktop\modificado simulacro segundo parcial\pilots.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1593691925 c:\users\fede\desktop\modificado simulacro segundo parcial\controllersimulacro.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593691673 source:c:\users\fede\desktop\modificado simulacro segundo parcial\flights.c
+	"Flights.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593521484 source:c:\users\fede\desktop\modificado simulacro segundo parcial\funcionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesGet.h"
+
+1593521519 c:\users\fede\desktop\modificado simulacro segundo parcial\funcionesget.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1593694024 source:c:\users\fede\desktop\modificado simulacro segundo parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593692786 source:c:\users\fede\desktop\modificado simulacro segundo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"controllerSimulacro.h"
+	"Flights.h"
+	"menu.h"
+	"funcionesGet.h"
+	"Pilots.h"
+
+1593529934 c:\users\fede\desktop\modificado simulacro segundo parcial\parser.h
+	"LinkedList.h"
+
+1593520956 c:\users\fede\desktop\modificado simulacro segundo parcial\menu.h
+
+1593691102 source:c:\users\fede\desktop\modificado simulacro segundo parcial\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"funcionesGet.h"
+
+1593656665 source:c:\users\fede\desktop\modificado simulacro segundo parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Flights.h"
+	"Pilots.h"
+
+1593692078 source:c:\users\fede\desktop\modificado simulacro segundo parcial\pilots.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilots.h"
+
